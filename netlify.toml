@@ -6,9 +6,9 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "The journey starts here👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Let me guide you through my journey in the wonderfull world of AI"
+LANDING_DESCRIPTION = "Let me guide you through my journey into the wonderfull world of AI"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Home"
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Hi! I'm Gauthier"
 PYTHON_VERSION = "3.8"
